@@ -3,13 +3,13 @@
 - URL repositorio de trabajo: [UBP-LAB-4](https://github.com/BenjaOliva/UBP-Lab4-Repo) 
 
 1 - Iniciamos el repo
-![](imagenes\Git-init.png)
+![](imagenes/Git-init.png)
 
 2 - Creamos Archivos dentro de la carpeta del proyecto
-![](imagenes\CV-README.png)
+![](imagenes/CV-README.png)
 
 3- Push a repo remoto
-![](imagenes\push.png)
+![](imagenes/push.png)
 
 4- Pull request
 
@@ -19,14 +19,14 @@
 
 * Push de los cambios al repo remoto para luego hacer un pull request
 
-![](imagenes\branch-dev.png)
-![](imagenes\commit-dev.png)
-![](imagenes\pull-dev.png)
+![](imagenes/branch-dev.png)
+![](imagenes/commit-dev.png)
+![](imagenes/pull-dev.png)
 
 * Se completa la revision en Github y se mergea al branch master 
 
-![](imagenes\merge-local.png)
-![](imagenes\merge-exito.png)
+![](imagenes/merge-local.png)
+![](imagenes/merge-exito.png)
 
 5 - Conflictos en Merge
 
@@ -39,8 +39,8 @@
 * Hacemos Pull y merge y vemos las opciones de solucion que nos dan
 
 * Resolvemos los conflictos
-![](imagenes\clon.png)
-![](imagenes\conflicto.png)
-![](imagenes\resolver.png)
+![](imagenes/clon.png)
+![](imagenes/conflicto.png)
+![](imagenes/resolver.png)
 
 
